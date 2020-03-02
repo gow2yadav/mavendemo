@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11714" started-at="2020-02-28T11:59:59Z" finished-at="2020-02-28T12:00:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11714" started-at="2020-02-28T11:59:59Z" finished-at="2020-02-28T12:00:11Z">
+      <class name="seleniumdemo.Demo">
+        <test-method status="PASS" signature="testone()[pri:0, instance:seleniumdemo.Demo@523884b2]" name="testone" duration-ms="11658" started-at="2020-02-28T11:59:59Z" finished-at="2020-02-28T12:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testone -->
+      </class> <!-- seleniumdemo.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
